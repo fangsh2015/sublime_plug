@@ -1,0 +1,43 @@
+{
+	"auto_upgrade": false,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"apiDoc Autocompletion",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"CSS Format",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"Function Name Display",
+		"JavaScript Completions",
+		"Jedi - Python autocompletion",
+		"jQuery",
+		"Markdown Extended",
+		"MarkdownPreview",
+		"Monokai Extended",
+		"Open TortoiseHg",
+		"Package Control",
+		"Phpcs",
+		"PHPUnit",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-pyflakes",
+		"Table Editor",
+		"Theme - Cobalt2",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets",
+		"Xdebug Client"
+	]
+}
